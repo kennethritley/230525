@@ -13,7 +13,7 @@ public class PracticeExamJDBC {
     public static void main(String[] args) {
 
         // Where is the .db file located?
-        String pathToDb = "/Users/kenritley/Documents/BHF/MODULE/DB/LESSONS/Java/Test-Harness-SQLite/db/practice_exam_jdbc.db";
+        String pathToDb = "/Users/kenritley/Documents/BHF/MODULE/DB/LESSONS/JAVA/230525/db/practice_exam_jdbc.db";
 
         System.out.println("PATH: " + pathToDb);
         // JDBC SQLite connection string
